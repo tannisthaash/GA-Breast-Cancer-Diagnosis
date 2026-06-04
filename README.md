@@ -1,4 +1,5 @@
 # GA-Breast-Cancer-Prediction
+"An Explainable Breast Cancer Prediction Framework Using Genetic Algorithm-Based Feature Selection and Support Vector Machine"
 This project proposes a Genetic Algorithm (GA)-optimized SVM framework for breast cancer prediction using the Wisconsin Breast Cancer Dataset.
 
 Features:
